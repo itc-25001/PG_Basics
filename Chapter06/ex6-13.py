@@ -4,3 +4,7 @@ print(one)
 
 one = " ".join(words)
 print(one)
+<<<<<<< HEAD
+=======
+
+>>>>>>> CH07

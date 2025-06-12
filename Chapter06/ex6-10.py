@@ -5,3 +5,7 @@ do = input("どうした:")
 
 r = "{}は{}に{}で{}。".format(what, when, where, do)
 print(r)
+<<<<<<< HEAD
+=======
+
+>>>>>>> CH07
