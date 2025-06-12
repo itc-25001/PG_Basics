@@ -4,4 +4,3 @@ print(one)
 
 one = " ".join(words)
 print(one)
-

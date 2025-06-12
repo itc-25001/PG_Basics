@@ -1,2 +1,1 @@
-a="Hemingway"
-print(a[2])
+print("Hemingway".index("m"))
