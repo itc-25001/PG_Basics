@@ -5,4 +5,5 @@ while i <= 5:
         continue
     print(i)
     i += 1
+    i+=1
 
